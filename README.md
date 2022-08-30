@@ -10,25 +10,18 @@
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | -------|
-| 2020.06 - 2020.07 | 논문 통계 분석 | SPSS를 이용한 논문 내용 분석 (기술통계량 측정, T검정, Borich etc ..) |
-| 2020.09 - 2020.10 | 2020  빅콘테스트 (NIA) | 퓨쳐스리그, 야구 승률 예측|
-| 2021.05 - 2021.05 | 전주시 공공데이터 분석 | 전주시 권역별 CCTV 설치 구역 선정 |
-| 2021.07 - 2021.07 | 개인 프로젝트 | 배달의 민족 개인추천화 서비스 기회 및 알고리즘 연구 |
-| 2021.08 - 2021.08 | K-DATA & 울산항만공사 협업 프로젝트 | AI를 사용한 검수 자동화 서비스 개발 |
-| 2021.10 - 2021.12 | NIA 공공데이터 청년인턴 | 공공 개방데이터 품질 진단 및 개선 |
-| 2021.12 - 2021.12 | NIA 공공데이터 해커톤 | 공사장 인근 시민안전 공공서비스 |
-| 2022.01 - 2022.01 | 전북대 빅데이터 분석 경연대회 | 지하철 유동 인구수 별 공기질 분석 및 지도 시각화 |
-| 2022.01 - 2022.06 | 전부 선거관리위원회 분석 모니터링 | 전북 선거여론조사 결과 교차분석 및 추이분석 |
-| ------ | ------ | ------|
-| 2017.12 - 2018.01 | 전북대 CK 사업단 | 수원국 현지조사 프로젝트 (라오스 여성 직업 개발 효과성 조사) |
-| 2018.07 - 2018.08 | 전북대 CK 사업단 | 캄보디아 해외 봉사 (화장실 짓기, 교육 봉사) - 대외활동 |  
+| 2020.06 - 2020.12 | 한국대학생IT경영학회 학술제 | 사회 초년생을 위한 비금융정보 관리 서비스 기획 및 개발 |
+| 2020.08 - 2020.11 | 2020  빅콘테스트 혁신 아이디어 분야| 코로나 전후 소비행태 분석을 통한 뉴노멀 시대의 비즈니스 모델 제언|
+| 2021.03 - 2021.06 | KED 데이터 시각화 공모전 | IT기업 가치 평가를 통한 기술 트렌드 파악 및 대응 |
+| 2021.07 - 2021.07 | BOAZ 팀 프로젝트 | 리뷰 유용성 파악 및 군집화 후, 군집 내 top-k개 리뷰 추출 |
+| 2021.08 - 2021.08 | BOAZ 팀 프로젝트 | 텍스트 분위기 추출 후, 노래 플레이리스트 생성 |
 
 ##### 🏢 Career
 
 | PERIOD | TITLE |
 | ------- | ------- |
-| 2021.09 - 2021.12 | 공공데이터 청년인턴 |
-| 2022.01 - 2022.06 | 전북선거관리위원회 여론조사 분석 모니터링요원 |
+| 2021.04 - 2021.12 | 경희대학교 자연어처리 연구실, 학부연구생 |
+| 2022.01 -  |  |
 
 ##### 📜 Certificate
 
@@ -46,5 +39,5 @@
 ![Profile views](https://gpvc.arturio.dev/Chaheon)  
 
 
-[![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/0ldcar_/)
+[![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/caesium_y/)](https://www.instagram.com/ssangmin97/)
 [![blog](https://img.shields.io/badge/github-blog-000000?style=for-the-badge&logo=github&logoColor=white&link=https://caesiumy.github.io/)](https://heoni00.github.io)
