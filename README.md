@@ -1,13 +1,10 @@
-### Hi I'm Chaheon Kim 🙆🏻‍♂🙆🏻‍♂🙆🏻‍♂
-#### Studying Data Analysis & Database & Data Visualization
-#### Interesting Analysis & PM & Blanding 
+### Hi I'm SeoroMin 🙆🏻‍♂🙆🏻‍♂🙆🏻‍♂
+#### Studying Data Analysis & Natural Language Processing & Data Visualization
+#### Interesting E-commerce Analysis & Health 
 
 ##### 📘 ️Edu  
 
-`-` Jeonbuk Univ, Political / Statistics  
-`-` ODA Expert training _ Univ of Barcelona  
-`-` Big Leader AI Academy _ Kyungnam Univ.  
-`-` Public data analysis training _ NIA
+`-` KyungHee Univ, Software Convergence / Data Science
 
 ##### 🏆 Project  
 
@@ -40,7 +37,11 @@
 
 ##### 🧩 Skill  
 
- R / Python / SQL / SPSS / EXCEL
+ Python / SQL / EXCEL
+ Pytorch
+ C&C++
+ Tableau
+ 
 
 ![Profile views](https://gpvc.arturio.dev/Chaheon)  
 
